@@ -31,7 +31,7 @@
 
 <!--![Top Langages](https://github-readme-stats-tan-xi-25.vercel.app/api/top-langs/?username=nilainaras&layout=compact&theme=react)-->
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nilainaras&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=nilainaras&theme=dark)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nilainaras&theme=react-dark&custom_title=Nilaina's%20Contributions%20Graph)
 
