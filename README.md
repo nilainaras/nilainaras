@@ -31,9 +31,14 @@
 
 <!--![Top Langages](https://github-readme-stats-tan-xi-25.vercel.app/api/top-langs/?username=nilainaras&layout=compact&theme=react)-->
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=nilainaras&theme=dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilainaras&theme=react-dark&hide_border=true&bg_color=020712&area=true" width="100%">
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nilainaras&theme=react-dark&custom_title=Nilaina's%20Contributions%20Graph)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nilainaras&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE"><br>
+</p>
 
 </div>
 
