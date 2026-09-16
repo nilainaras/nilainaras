@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 </p>
 
 #### ⚙️Tools & Technologies
@@ -35,11 +36,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilainaras&theme=react-dark&hide_border=true&bg_color=020712&area=true" width="100%">
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nilainaras&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE"><br>
+  <img src="https://streak-stats.demolab.com?user=nilainaras&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE"><br>
 </p>
-
 </div>
 
 <div align="center">
