@@ -29,7 +29,7 @@
 
 <!--![Stats GitHub](https://github-readme-stats-tan-xi-25.vercel.app/api?username=nilainaras&show_icons=true&theme=react)-->
 
-<!--![Top Langages](https://github-readme-stats-tan-xi-25.vercel.app/api/top-langs/?username=nilainaras&layout=compact&theme=react)-->
+![Top Langages](https://github-readme-stats-tan-xi-25.vercel.app/api/top-langs/?username=nilainaras&layout=compact&theme=react)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilainaras&theme=react-dark&hide_border=true&bg_color=020712&area=true" width="100%">
